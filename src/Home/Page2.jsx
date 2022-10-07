@@ -15,7 +15,7 @@ export default function Page2() {
         <div className="content-wrapper home-hover">
           <div className="image" style={{ backgroundImage: `url(${d.image})` }} />
           <div className="code-wrapper">
-            <h4>扫码预览</h4>
+            <h4>Seguridad</h4>
             <QRCode value={d.url} size={160} />
           </div>
         </div>
@@ -25,7 +25,7 @@ export default function Page2() {
     <div className="home-layout-wrapper home-case-wrapper">
       <OverPack className="home-layout" playScale={0.4}>
         <QueueAnim className="home-case" type="bottom" key="home-case" ease="easeOutQuart" leaveReverse>
-          <h2 key="h2">精品案例扫一扫</h2>
+          <h2 key="h2">Transparencia</h2>
           <i key="i" className="line" />
           <QueueAnim
             key="content"
