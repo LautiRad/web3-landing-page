@@ -1,6 +1,6 @@
 import React from 'react';
 import { footer } from './data';
-
+{/*
 function antCloudFooter() {
   const children = footer.map((item, i) => (<div key={i}><a href={item.src}>{item.text}</a></div>));
   return (<div>
@@ -13,6 +13,8 @@ function antCloudFooter() {
   </div>
   );
 }
+*/}
+
 
 function Footer() {
   return (
