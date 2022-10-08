@@ -18,24 +18,6 @@ export const page1 = [
   },
 ];
 
-export const page2 = [
-  {
-    title: '端午节',
-    url: 'https://render.alipay.com/p/f/fd-jauizbz9/index.html',
-    image: 'https://gw.alipayobjects.com/zos/rmsportal/VMhxnfHxvCgksDCnbfQX.jpg',
-  },
-  {
-    title: '余额宝4周年',
-    url: 'https://render.alipay.com/p/f/fd-jauj8apg/index.html',
-    image: 'https://gw.alipayobjects.com/zos/rmsportal/kJCZlvEAvTnyLVqzrhzH.jpg',
-  },
-  {
-    title: '支付宝付款',
-    url: 'http://www.anijue.com/p/q/j5rxse2a/pages/home/index.html',
-    image: 'https://gw.alipayobjects.com/zos/rmsportal/yKHLCeGLgdFoxFXhzFtu.jpg',
-  },
-];
-
 export const page3 = [
   {
     title: 'Clientes',
@@ -44,7 +26,6 @@ export const page3 = [
       <p key="2">Fintech</p>,
       <p key="3">Users Web3</p>,
     ],
-    // exp: '免费使用',
     svg: (<svg width="32px" height="32px" viewBox="0 0 32 32">
       <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8500478%" id="linearGradient-1">
@@ -116,6 +97,47 @@ export const page3 = [
           className="icon-hover"
         />
       </svg>),
+  },
+  {
+    title: 'Redes',
+    content: [
+      <p key="1">Instagram</p>,
+      <p key="2">LinkedIn</p>,
+      <p key="3">GitHub</p>,
+    ],
+    svg: (<svg width="32px" height="32px" viewBox="0 0 32 32">
+      <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8500478%" id="linearGradient-1">
+          <stop stopColor="#FFD24C" offset="0%" />
+          <stop stopColor="#FFB800" offset="100%" />
+        </linearGradient>
+      </defs>
+      <path
+        d="M11.2,19.9763991 L1.43301577,25.9589289
+           C0.542750835,26.5042392 1.20441457e-15,27.4731633 1.33226763e-15,28.5171628
+              L0,28.5171628 L0,30 C1.3527075e-16,31.1045695 0.8954305,32 2,32
+              L30,32 C31.1045695,32 32,31.1045695 32,30 L32,30 L32,28.5391533
+              C32,27.4832633 31.4449138,26.5051178 30.53843,25.9636469 L30.53843,25.9636469
+              L20.8,20.1465799 L20.8,18.1051172 C22.2729985,16.7867478 23.2,14.8708611 23.2,12.7384615
+              L23.2,7.2 C23.2,3.2235498 19.9764502,-7.30462051e-16 16,0
+              C12.0235498,7.30462051e-16 8.8,3.2235498 8.8,7.2 L8.8,7.2
+              L8.8,12.7384615 C8.8,14.8708611 9.72700154,16.7867478 11.2,18.1051172 L11.2,19.9763991 Z"
+        fill="#D9D9D9"
+      />
+      <path
+        d="M11.2,19.9763991 L1.43301577,25.9589289
+        C0.542750835,26.5042392 1.20441457e-15,27.4731633 1.33226763e-15,28.5171628
+              L0,28.5171628 L0,30 C1.3527075e-16,31.1045695 0.8954305,32 2,32
+              L30,32 C31.1045695,32 32,31.1045695 32,30 L32,30 L32,28.5391533
+              C32,27.4832633 31.4449138,26.5051178 30.53843,25.9636469 L30.53843,25.9636469
+              L20.8,20.1465799 L20.8,18.1051172 C22.2729985,16.7867478 23.2,14.8708611 23.2,12.7384615
+              L23.2,7.2 C23.2,3.2235498 19.9764502,-7.30462051e-16 16,0
+              C12.0235498,7.30462051e-16 8.8,3.2235498 8.8,7.2 L8.8,7.2
+              L8.8,12.7384615 C8.8,14.8708611 9.72700154,16.7867478 11.2,18.1051172 L11.2,19.9763991 Z"
+        fill="url(#linearGradient-1)"
+        className="icon-hover"
+      />
+    </svg>),
   },
 ];
 
