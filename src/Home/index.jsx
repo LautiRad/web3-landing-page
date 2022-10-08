@@ -18,7 +18,7 @@ class Home extends React.PureComponent {
         <Page3 key="page3" />
         <Page4 key="page4" />
         <Footer key="footer" />
-        <DocumentTitle title="Web3 solutions" />
+        <DocumentTitle title="Web3" />
       </div>
     );
   }
