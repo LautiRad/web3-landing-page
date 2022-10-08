@@ -18,9 +18,9 @@ class Banner extends React.PureComponent {
         <div className="home-layout">
           <QueueAnim className={`${className}-content-wrapper`} delay={300} ease="easeOutQuart">
             <h1 key="h2">
-              极简制作，一键呈现
+              Hola，Bienvenido a Web3 solutions
             </h1>
-            <p key="p">为您提供专业的云上建站服务，满足不同行业的个性化需求</p>
+            <p key="p">Creamos soluciones en la web 3.0，tenés una idea? preguntanos si la podemos levar a cabo.</p>
             <span key="button">
               <Button
                 type="primary"
@@ -28,7 +28,7 @@ class Banner extends React.PureComponent {
                 window.location.href = '/activity/home';
               }}
               >
-                开始使用
+                Contacto
               </Button>
             </span>
           </QueueAnim>

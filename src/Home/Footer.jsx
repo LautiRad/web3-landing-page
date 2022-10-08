@@ -19,7 +19,7 @@ function Footer() {
     <div className="home-layout-wrapper home-footer-wrapper">
       <div className="home-layout">
         {antCloudFooter()}
-        <p key="cop" className="copy">Copyright ©2016 蚂蚁金融服务集团  |  ICP证：沪ICP备15027489号-2</p>
+        <p key="cop" className="copy">©2022  |  Web3 Solutions</p>
       </div>
     </div>
   );
