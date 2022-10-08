@@ -147,15 +147,8 @@ export const page4 = [
   'https://gw.alipayobjects.com/zos/rmsportal/gNNxbrNqlHdnRuMjUXrL.svg',
   'https://gw.alipayobjects.com/zos/rmsportal/qWaneWxxMVpASpiCOcsT.svg',
   'https://gw.alipayobjects.com/zos/rmsportal/kyCpvqWFloOpAOqzOlBg.svg',
-  'https://gw.alipayobjects.com/zos/rmsportal/bBzJNEnPvyhNUhyHipvO.svg',
-  'https://gw.alipayobjects.com/zos/rmsportal/UbEpCMXGBmDgkJXfIgMx.svg',
-  'https://gw.alipayobjects.com/zos/rmsportal/xsWGKOdkRoJnzHIZlRiD.svg',
 ];
 
 export const footer = [
-  { text: 'A', src: '#' },
-  { text: 'N', src: '#' },
-  { text: 'L', src: '#' },
-  { text: 'I', src: '#' },
-  { text: 'B', src: '#' },
+  { text: 'Web3 Solutions', src: '#' },
 ];
