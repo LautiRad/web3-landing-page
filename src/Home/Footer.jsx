@@ -19,7 +19,7 @@ function Footer() {
     <div className="home-layout-wrapper home-footer-wrapper">
       <div className="home-layout">
         {antCloudFooter()}
-        <p key="cop" className="copy">©2022  |  Web3 Solutions</p>
+        <p key="cop" className="copy">©2022 | Web3 Solutions | Powered by CreX</p>
       </div>
     </div>
   );
