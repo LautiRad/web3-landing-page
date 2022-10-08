@@ -38,11 +38,11 @@ export const page2 = [
 
 export const page3 = [
   {
-    title: '个人版',
+    title: 'Clientes',
     content: [
-      <p key="1">支持 H5 站点制作</p>,
-      <p key="2">支持模板管理</p>,
-      <p key="3">支持数据分析</p>,
+      <p key="1">Startups IT</p>,
+      <p key="2">Fintech</p>,
+      <p key="3">Users Web3</p>,
     ],
     // exp: '免费使用',
     svg: (<svg width="32px" height="32px" viewBox="0 0 32 32">
@@ -80,14 +80,13 @@ export const page3 = [
     </svg>),
   },
   {
-    title: '企业版',
+    title: 'Proyectos',
     content: [
-      <p key="1">支持 H5 站点制作</p>,
-      <p key="2">支持模板管理，实现模板共享</p>,
-      <p key="3">支持工作组管理，实现多人协作</p>,
-      <p key="4">支持自定义发布审批流</p>,
-      <p key="5">支持自定义域名</p>,
-      <p key="6">支持成员管理</p>,
+      <p key="1">Marketplace Web3</p>,
+      <p key="2">Marketplace NFT</p>,
+      <p key="3">Liquidity Pool</p>,
+      <p key="4">Exchange / Swap</p>,
+      <p key="5">Smart Contracts</p>,
     ],
     svg: (
       <svg width="32px" height="32px" viewBox="0 0 32 32">
@@ -132,9 +131,9 @@ export const page4 = [
 ];
 
 export const footer = [
-  { text: '解决方案', src: '#' },
-  { text: '使用帮助', src: '#' },
-  { text: '模板开发文档', src: '#' },
-  { text: '模板开发工具', src: '#' },
-  { text: '联系我们', src: 'mailto:zhao.wuz@antfin.com' },
+  { text: 'A', src: '#' },
+  { text: 'N', src: '#' },
+  { text: 'L', src: '#' },
+  { text: 'I', src: '#' },
+  { text: 'B', src: '#' },
 ];
